@@ -4,7 +4,7 @@
   <version>1.452</version>
   <numExecutors>2</numExecutors>
   <mode>NORMAL</mode>
-  <useSecurity>true</useSecurity>
+  <useSecurity>false</useSecurity>
   <authorizationStrategy class="hudson.security.AuthorizationStrategy$Unsecured"/>
   <securityRealm class="hudson.security.HudsonPrivateSecurityRealm">
     <disableSignup>true</disableSignup>
